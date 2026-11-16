@@ -2,7 +2,7 @@
 
 Fifteen annotated views from development builds. Gameplay and presentation are still evolving.
 
-[← Project overview](README.md) · [Gallery polish TODO](TODO.md)
+[← Project overview](README.md)
 
 
 ## Choose your campaign
