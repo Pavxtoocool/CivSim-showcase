@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+<title id="title">CivSim — PM Studios</title><desc id="desc">Minimal CivSim wordmark on a slate-blue background, with a small PM studio monogram.</desc>
+<defs><linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#172237"/><stop offset="1" stop-color="#344057"/></linearGradient></defs>
+<rect width="1280" height="320" fill="url(#sky)"/>
+<text x="640" y="176" fill="#F5F1E9" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="112" letter-spacing="13">CIVSIM</text>
+<path d="M465 208 H815" stroke="#B6C0CE" stroke-width="1" opacity=".6"/>
+<text x="640" y="247" fill="#E2E5E8" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="5">A LIVING MEDIEVAL WORLD</text>
+<g transform="translate(1150 258)" fill="none" stroke="#F5F1E9" stroke-width="4" stroke-linejoin="miter"><path d="M0 26 V0 H25 Q40 0 40 13 Q40 26 25 26 H0 M40 26 L56 0 L72 26 L88 0 V26"/></g>
+</svg>
