@@ -4,7 +4,7 @@
 
 CivSim is a grand-strategy game and autonomous civilization simulator. Kingdoms build, negotiate and go to war as royal families grow and power changes hands.
 
-![CivSim world view showing kingdoms, castles and alliances](screenshots/world.png)
+![CivSim: a world of rival kingdoms, with an annotated development screenshot](screenshots/features/02-world.png)
 
 *Development screenshot — visuals and gameplay are still evolving.*
 
@@ -26,17 +26,9 @@ CivSim is a grand-strategy game and autonomous civilization simulator. Kingdoms 
 
 ## Screenshots
 
-### Choose your world
+[Explore the 15-image feature gallery →](GALLERY.md)
 
-![CivSim map selection showing The Narrow Sea](screenshots/map-selection.png)
-
-Select a map and decide whether to rule a civilization or watch the world develop.
-
-### Shape your realm's future
-
-![CivSim research chart with connected technology paths](screenshots/research.png)
-
-Explore technology paths that support your realm's growth and military ambitions.
+See the world, player orders, royal families, research, commanders, sieges and campaign history, with short explanations on each image.
 
 ## Demo
 
