@@ -10,7 +10,7 @@
 
 <sub>In-development gameplay · Visuals and mechanics are subject to change</sub>
 
-**[Explore the gallery](GALLERY.md)** · **[Development status](#development)** · **[Credits](CREDITS.md)**
+**[Explore the gallery](GALLERY.md)** · **[Development status](#development)**
 
 </div>
 
@@ -57,5 +57,3 @@ The project is actively evolving; gameplay, balance, visuals and features may ch
 ---
 
 <sub>This repository is a public portfolio showcase containing selected descriptions and screenshots. The proprietary game source, original asset files and internal development documentation are not distributed here.</sub>
-
-<sub>Visual assets include KayKit artwork by [Kay Lousberg](https://kaylousberg.com/). See the full [credits](CREDITS.md).</sub>
