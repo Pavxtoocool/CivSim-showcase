@@ -1,47 +1,61 @@
+<div align="center">
+
 # CivSim
 
-**A living medieval world. Rule a realm or watch history unfold.**
+### A living medieval world.
 
-CivSim is a grand-strategy game and autonomous civilization simulator. Kingdoms build, negotiate and go to war as royal families grow and power changes hands.
+*Rule a realm. Or watch history unfold.*
 
-![CivSim: a world of rival kingdoms, with an annotated development screenshot](screenshots/features/02-world.png)
+![CivSim development screenshot](screenshots/features/02-world.png)
 
-*Development screenshot — visuals and gameplay are still evolving.*
+<sub>In-development gameplay · Visuals and mechanics are subject to change</sub>
 
-## Two ways to play
+**[Explore the gallery](GALLERY.md)** · **[Development status](#development)** · **[Credits](CREDITS.md)**
 
-- **Rule:** guide a civilization's economy, research, diplomacy and military campaigns.
-- **Watch:** follow an autonomous world and the stories that emerge between rival realms.
+</div>
 
-## Features
+---
 
-- **Build a kingdom:** develop settlements, manage resources and advance through a branching technology tree.
-- **Navigate rivalries:** form alliances, support allies and contest territory.
-- **Lead campaigns:** field armies under named commanders and lay siege to castles.
-- **Follow a dynasty:** royal families, marriages and succession give each realm a history.
-- **Explore handcrafted worlds:** nine maps, with up to six civilizations on large maps.
-- **Read the story:** a campaign journal, live announcements and war reports record major events.
-- **Set the atmosphere:** a low-poly 3D world, voiced announcements and music accompany the campaign.
-- **Return to your campaign:** save and resume, with an in-game guide for new players.
+## The world moves without you
 
-## Screenshots
+CivSim is an independent grand-strategy project built around autonomous civilisations. Kingdoms develop, rulers make decisions, alliances shift and wars reshape the map — whether you intervene or simply observe.
 
-[Explore the 15-image feature gallery →](GALLERY.md)
+### Choose your perspective
 
-See the world, player orders, royal families, research, commanders, sieges and campaign history, with short explanations on each image.
+| RULE | WATCH |
+| :--- | :--- |
+| Guide a civilisation through economic development, research, diplomacy and military campaigns. | Follow rival kingdoms as they expand, negotiate, clash and create their own histories. |
 
-## Demo
+## Inside CivSim
 
-**A public playable demo is not available yet.**
+| **Kingdoms & economies** | **Diplomacy & conflict** |
+| :--- | :--- |
+| Develop settlements, manage resources and progress through a branching technology tree. | Forge alliances, coordinate armies under named commanders and lay siege to castles. |
+| **Dynasties & succession** | **Handcrafted worlds** |
+| Follow royal families, marriages and changes of power across generations. | Explore nine designed maps, with up to six civilisations on larger worlds. |
+| **Emergent history** | **A world in motion** |
+| Track events through campaign journals, announcements and war reports. | Experience a low-poly 3D world with voiced events and music. |
 
-When a public build is ready, it will be published on the [Releases page](https://github.com/Pavxtoocool/CivSim-showcase/releases). No release date is announced.
+Save and resume campaigns, with an in-game guide for new players.
 
-## Development status
+## A closer look
 
-CivSim is in active development. Screenshots show development builds; features, balance and presentation may change.
+**[View the 15-image feature gallery →](GALLERY.md)**
 
-This public repository contains the project overview and screenshots. The proprietary game source, original asset files and internal development documentation are not distributed here.
+Explore the world, research, player orders, royal families, commanders, sieges and the unfolding campaign through annotated development screenshots.
 
-## Credits
+## Development
 
-Artwork includes KayKit assets by [Kay Lousberg](https://kaylousberg.com/). See [Credits](CREDITS.md).
+CivSim is an ongoing independent project exploring simulation design, emergent gameplay and AI-assisted product development. Its simulation core uses Python, with a Godot 4 interface and 3D world.
+
+The project is actively evolving; gameplay, balance, visuals and features may change.
+
+### Playable demo
+
+**Not available publicly yet.** When a demo is ready, it will appear under [Releases](https://github.com/Pavxtoocool/CivSim-showcase/releases). No release date has been announced.
+
+---
+
+<sub>This repository is a public portfolio showcase containing selected descriptions and screenshots. The proprietary game source, original asset files and internal development documentation are not distributed here.</sub>
+
+<sub>Visual assets include KayKit artwork by [Kay Lousberg](https://kaylousberg.com/). See the full [credits](CREDITS.md).</sub>
