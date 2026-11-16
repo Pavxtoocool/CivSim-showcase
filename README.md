@@ -2,7 +2,7 @@
 
 # CivSim
 
-### A living medieval world.
+![CivSim title with PM studio signature](branding/civsim-title.svg)
 
 *Rule a realm. Or watch history unfold.*
 
