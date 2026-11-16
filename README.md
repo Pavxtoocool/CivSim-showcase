@@ -46,7 +46,7 @@ Explore the world, research, player orders, royal families, commanders, sieges a
 
 ## Development
 
-CivSim is an ongoing independent project exploring simulation design, emergent gameplay and AI-assisted product development. Its simulation core uses Python, with a Godot 4 interface and 3D world.
+Inspired by an interest in how individual decisions shape complex systems, CivSim explores simulation design, emergent gameplay and the interplay of strategy and data. Its simulation core uses Python, with a Godot 4 interface and 3D world.
 
 The project is actively evolving; gameplay, balance, visuals and features may change.
 
@@ -56,4 +56,4 @@ The project is actively evolving; gameplay, balance, visuals and features may ch
 
 ---
 
-<sub>This repository is a public portfolio showcase containing selected descriptions and screenshots. The proprietary game source, original asset files and internal development documentation are not distributed here.</sub>
+<sub>Public portfolio showcase only · Proprietary game source is not distributed · [Rights and usage](RIGHTS.md)</sub>
