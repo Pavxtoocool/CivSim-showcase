@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/Pavxtoocool/CivSim-showcase/raw/refs/heads/main/media/civsim-preview-final-v2.mp4"><img src="media/civsim-preview.gif" width="324" height="576" alt="Full 60-second CivSim gameplay preview"></a><br>
+  <a href="https://github.com/Pavxtoocool/CivSim-showcase/raw/refs/heads/main/media/civsim-preview-final-v2.mp4">Watch in HD with sound</a>
+</p>
+
 <div align="center">
 
 # CivSim
